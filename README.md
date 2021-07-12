@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @rajrupesh538
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rajrupesh538/rajrupesh538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning ML & AI
+- B.Tech(CSE), Lovely Professional University (2019-2023)
+- email-rajrupesh538@gmail.com
+- linkedin-https://www.linkedin.com/in/rupesh-raj-29b888192
+- Mob No-9576879776, 8949027687
